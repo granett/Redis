@@ -1,4 +1,4 @@
-package com.didispace.Chapter1;
+package com.redis.Chapter1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
