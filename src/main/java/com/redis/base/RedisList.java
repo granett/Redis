@@ -36,6 +36,7 @@ public class RedisList {
         jedis.flushAll();
         jedis.rpush(KEY,"a","b","c");
         LRANGE();
+        System.out.println(jedis.ttl(KEY));
     }
 
     /**
