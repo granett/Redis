@@ -5,5 +5,7 @@ Redis使用
    根目录—>base包下的代码
 ## 2.redis的Pub/Sub（发布/订阅）
    根目录—>pubsub包下的代码
+## 3.redis的事务
+   根目录—>transaction包
 
 
